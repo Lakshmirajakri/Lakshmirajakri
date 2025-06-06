@@ -1,4 +1,4 @@
-![Banner](https://cdn.openai.com/chatgpt/profile-banner-light-dark-crispr-brain-ml-drugdiscovery.png)
+
 
 # 👋 Hi, I'm Lakshmi Rajakrishna!
 
