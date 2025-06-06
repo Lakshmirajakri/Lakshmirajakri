@@ -1,4 +1,4 @@
-
+![Project Banner](Gemini_Generated_Image_76sodb76sodb76so)
 
 # 👋 Hi, I'm Lakshmi Rajakrishna!
 
