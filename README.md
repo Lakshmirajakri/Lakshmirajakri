@@ -1,3 +1,4 @@
+![Banner](https://cdn.openai.com/chatgpt/profile-banner-light-dark-crispr-brain-ml-drugdiscovery.png)
 # 👋 Hi, I'm Lakshmi Rajakrishna!
 
 Welcome to my GitHub profile! I’m a Molecular Biologist and Biotechnologist with a strong foundation in neuroscience, drug target validation, and CRISPR-based technologies. I enjoy solving complex problems at the intersection of biology and data science.
