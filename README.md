@@ -1,4 +1,4 @@
-![Gemini_Generated_Image_76sodb76sodb76so](https://github.com/user-attachments/assets/3acf6ad3-16d0-4ef9-b8c8-ea635516a506)
+
 
 
 # 👋 Hi, I'm Lakshmi Rajakrishna!
@@ -34,9 +34,12 @@ Welcome to my GitHub profile! I’m a Molecular Biologist and Biotechnologist wi
 
 ---
 
+
 ## 📈 GitHub Stats
 
 ![Lakshmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakshmirajakri&show_icons=true&theme=radical)
+
+![Gemini_Generated_Image_76sodb76sodb76so](https://github.com/user-attachments/assets/3acf6ad3-16d0-4ef9-b8c8-ea635516a506)
 
 ---
 
