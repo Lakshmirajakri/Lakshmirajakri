@@ -1,4 +1,4 @@
-![Project Banner](Gemini_Generated_Image_76sodb76sodb76so)
+![Project Banner]("C:\Users\laksh\Downloads\Gemini_Generated_Image_76sodb76sodb76so.png")
 
 # 👋 Hi, I'm Lakshmi Rajakrishna!
 
